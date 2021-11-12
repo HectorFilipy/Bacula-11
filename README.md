@@ -3,7 +3,7 @@ Repositório para estudos com o Bacula 11, utilizando o S.O Debian 10, configura
 
 * Instalando o Bacula 11 com Debian 10.
 
-[Tutorial de Instalação](https://github.com/HectorFilipy/Bacula-11/blob/main/Instala%C3%A7%C3%A3o%20do%20Bacula%2011%20%2B%20Debian%2010.md)
+[Tutorial de Instalação](/tutorial/Instalação%20do%20Bacula%2011%20%2B%20Debian%2010.md)
 
 * Integração do Bacula 11 com o Telegram.
 
