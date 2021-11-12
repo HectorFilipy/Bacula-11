@@ -7,4 +7,4 @@ Repositório para estudos com o Bacula 11, utilizando o S.O Debian 10, configura
 
 * Integração do Bacula 11 com o Telegram.
 
-[Integração Telegram]()
+[Integração Telegram](/tutorial/Telegram)
